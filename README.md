@@ -7,7 +7,7 @@ In this exercise, we ask you to find the optimal solution to give back change wh
 
 Clone the repository to your local machine.
 Open a terminal window in the project directory.
-If you have NVM setup on your machine, run the following command to use the latest version of Node.js:
+If you have NVM setup on your machine, run the following command to use the required version of Node.js:
 ``` 
 nvm use
 ```
