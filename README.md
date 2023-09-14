@@ -16,7 +16,7 @@ Install the dependencies by running the following command:
 ```
 npm i
 ```
-5. Run the application by running the following command:
+Run the application by running the following command:
 
 ```
 npm run test
