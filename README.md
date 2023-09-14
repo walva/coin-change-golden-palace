@@ -1,7 +1,7 @@
 # coin-change-golden-palace
 This project's goal is to answer to the following problem: 
 Everyday in supermarkets, cashiers have to give back correct change to customers who pay in cash. How could they determine which bills to give back so that the number of bills is minimum?
-In this exercise, we ask you to find the optimal solution to give back change when a checkout only has $2, $5, and $10 bills.
+In this exercise, we were asked to find the optimal solution to give back change when a checkout only has $2, $5, and $10 bills.
 
 ## How to Install and Run
 
