@@ -4,7 +4,7 @@ const change = (amount) => {
     const changeObject = { two: 0, five: 0, ten: 0 };
 
     // we cannot return anything to the customer if the amount is less or equal to 3 so we return null
-    if (amount <= 3) {
+    if (amount <= 1 || amount === 3) {
         return null;
     }
 
